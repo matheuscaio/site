@@ -1,3 +1,9 @@
 body {
-    background-color: red;
+   margin:0;
+}
+
+.top-bar {
+    background-color:black;
+    width:20px;
+    height:60px;
 }
